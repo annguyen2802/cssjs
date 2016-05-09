@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://thietbidienchuan.com' target='_blank'><img src='http://thietbidienchuan.com/upload/hinhanh/139275.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://thietbidienchuan.com' target='_blank'><img src='http://thietbidienchuan.com/upload/hinhanh/139275.jpg' width='500px'/>Thiết bị điện cao cấp</a>.Giao hàng nhanh chóng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
